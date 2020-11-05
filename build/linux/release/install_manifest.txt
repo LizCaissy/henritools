@@ -1,0 +1,15 @@
+/home/adminreseau/Documents/Projets/cogeco_ip/build/linux/release/bundle/cogeco_ip
+/home/adminreseau/Documents/Projets/cogeco_ip/build/linux/release/bundle/data/icudtl.dat
+/home/adminreseau/Documents/Projets/cogeco_ip/build/linux/release/bundle/lib/libflutter_linux_gtk.so
+/home/adminreseau/Documents/Projets/cogeco_ip/build/linux/release/bundle/data/flutter_assets/assets/images/logo.png
+/home/adminreseau/Documents/Projets/cogeco_ip/build/linux/release/bundle/data/flutter_assets/assets/images/logo1.png
+/home/adminreseau/Documents/Projets/cogeco_ip/build/linux/release/bundle/data/flutter_assets/assets/images/logo3.png
+/home/adminreseau/Documents/Projets/cogeco_ip/build/linux/release/bundle/data/flutter_assets/assets/images/logo2.png
+/home/adminreseau/Documents/Projets/cogeco_ip/build/linux/release/bundle/data/flutter_assets/assets/images/PastilleH.svg
+/home/adminreseau/Documents/Projets/cogeco_ip/build/linux/release/bundle/data/flutter_assets/assets/images/logo.svg
+/home/adminreseau/Documents/Projets/cogeco_ip/build/linux/release/bundle/data/flutter_assets/packages/cupertino_icons/assets/CupertinoIcons.ttf
+/home/adminreseau/Documents/Projets/cogeco_ip/build/linux/release/bundle/data/flutter_assets/NOTICES
+/home/adminreseau/Documents/Projets/cogeco_ip/build/linux/release/bundle/data/flutter_assets/fonts/MaterialIcons-Regular.otf
+/home/adminreseau/Documents/Projets/cogeco_ip/build/linux/release/bundle/data/flutter_assets/FontManifest.json
+/home/adminreseau/Documents/Projets/cogeco_ip/build/linux/release/bundle/data/flutter_assets/AssetManifest.json
+/home/adminreseau/Documents/Projets/cogeco_ip/build/linux/release/bundle/lib/libapp.so
